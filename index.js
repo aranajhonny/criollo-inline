@@ -7,6 +7,7 @@ const absoluteFillObject = {
   top: 0,
   bottom: 0,
 };
+
 export default {
   hairlineWidth: 1,
   absoluteFillObject,
